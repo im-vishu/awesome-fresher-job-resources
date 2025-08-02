@@ -1,2 +1,3 @@
-# job-search-guide-for-freshers
-A curated collection of free tools, resume builders, learning platforms, job boards, and interview prep resources to simplify your job search. Built from 3 years of experience, this repo is designed to help students and professionals get more callbacks, grow their network, and land interviews faster.
+# 🎯 job-search-guide-for-freshers – Free Resources That Helped Me Land Interviews
+
+Your ultimate, free, and beginner-friendly guide to resume building, job applications, interview prep, and networking. Compiled over 3 years of real job search experience — built to help you skip months of struggle.
