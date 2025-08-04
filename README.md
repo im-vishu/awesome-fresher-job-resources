@@ -2,6 +2,9 @@
 ---
 
 ## 🧰 What's Inside
+   
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Preview" style="width:100%; max-width:600px;" />
+
 
 ### ✅ 1. Top LinkedIn Creators
 Boost your visibility and strategy by learning from the best.
@@ -80,6 +83,6 @@ Open an issue and I or the community will help!
 
 Give this repo a **star** 🌟 to help more people struggling with the job hunt!
 
-Or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/) to share your success story.
+Or connect with me on [LinkedIn](https://www.linkedin.com/in/vishant--chaudhary) to share your success story.
 
 ---
