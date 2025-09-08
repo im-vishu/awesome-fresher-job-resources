@@ -1,88 +1,189 @@
+# Full Job Search Guide 🚀
+
+This repository is a complete **job searching guide for developers and tech professionals**. It includes:
+
+1. A curated resource library of communities, platforms, tools, and guides (from README).
+2. A step-by-step job search playbook.
+3. A job application tracker template (Excel + CSV) with usage guide.
 
 ---
 
-## 🧰 What's Inside
-   
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Preview" style="width:100%; max-width:600px;" />
+# 1. Resource Library 📚
 
+This section collects websites, tutorials, tools, and platforms that can help you in your job search. These resources were originally in the `README.md`.
 
-### ✅ 1. Top LinkedIn Creators
-Boost your visibility and strategy by learning from the best.
+## 🌍 Developer Communities
 
-- [creators.md](./creators.md): Curated list of 10+ job search experts and their best advice.
+* [Codebar](https://www.codebar.io/)
+* [Meetup](https://www.meetup.com/)
+* [WomenWhoCode](https://www.womenwhocode.com/)
+* [IndieHackers](https://www.indiehackers.com/)
+* 📃 Other Lists
 
-### ✍️ 2. Resume & Cover Letter Tools
-Save hours using AI tools and proven templates.
+  * [Smashing Magazine - Search Developer Job Abroad](https://www.smashingmagazine.com/2022/11/search-developer-job-abroad/)
+  * [Modern Recruiters - Best Developer Communities](https://modernrecruiters.com/best-developer-communities/)
 
-- [resume-tools.md](./resume-tools.md): Tools + practical prompts
-- **BONUS**: Resume, cover letter, and outreach templates (in Notion & PDF)
+## 🤓 Guides & Articles
 
-### 🎓 3. Learning & Upskilling
-Study platforms, roadmaps, and focused plans.
+* [Career Change Checklist](https://resumeworded.com/playbooks/career-change-checklist)
+* [Patrick McKenzie - Twitter Thread](https://twitter.com/patio11/status/1221683564950867968)
+* [How to Prepare for Losing a Programming Job](https://codewithoutrules.com/2020/05/14/prepare-losing-job/)
+* [Galactic LinkedIn Profile Guide](https://github.com/GuidoPenta/galactic-linkedin-profile-guide)
+* [Getting a Gig - GitHub](https://github.com/cassidoo/getting-a-gig)
+* ⭐️ [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 
-- [learning.md](./learning.md): Course links + 30/60-day learning tracks
+## 💭 Freelancing
 
-### 🌐 4. Job Portals & Filters
-Smart ways to filter roles that match your skill and location.
+* [Freelancing in Finland](https://github.com/sam-hosseini/freelancing-in-finland)
+* [Freelance Contract Example](https://gist.github.com/malarkey/4031110)
 
-- [job-portals.md](./job-portals.md): Filter tips + lesser-known portals
+## 💻 AI Based Tools
 
-### 💼 5. Interview Prep
-Sharpen your readiness with daily tasks and curated plans.
+* [Resumaker AI](https://resumaker.ai/)
+* [Interviews by AI](https://www.interviewsby.ai/)
+* [JobScan](https://www.jobscan.co/)
+* [Kickresume](https://www.kickresume.com/en/)
 
-- [interview-prep.md](./interview-prep.md): Mock sites, daily practice plans, and cheat sheets
+## 🖍️ Internships & Similar
 
-### 🤝 6. Networking & Outreach
-DM templates, follow-up scripts, and real messages that worked.
+* [Google Summer of Code](https://summerofcode.withgoogle.com/)
 
-- [networking.md](./networking.md): Cold DM examples + connection message library
+## 🗒️ Resume Writing & Tools
 
----
+* [How to Make a Resume (YouTube)](https://www.youtube.com/watch?v=9eEv6bCtLmc)
+* [Standard Resume](https://standardresume.co/)
+* [Resumey.Pro](https://resumey.pro/)
+* [Open Resume](https://www.open-resume.com/)
 
-## 🗓️ Daily & Weekly Job Hunt Plan
+## 🤖 How To Use ChatGPT
 
-**🕒 30 mins/day Sample Plan**
-- 10 min: Apply to 2 roles using a saved resume version  
-- 10 min: Connect with 3 new people on LinkedIn + DM  
-- 10 min: Track progress + review your resume/interview notes  
-
-**📅 Weekly Tracker (Downloadable)**  
-→ [Job Tracker Sheet (Google Sheets)](link-to-sheet)  
-→ [Notion Resume Workspace](link-to-notion)
-
----
-
-## 📝 Templates You Can Use
-
-- ✅ [Resume Template (PDF/Doc)](link)
-- ✉️ [Cover Letter Template](link)
-- 💬 [Outreach Message Templates](link)
-- 📩 [Follow-up Email Scripts](link)
+* [Land a Job using ChatGPT (YouTube)](https://www.youtube.com/watch?v=pmnY5V16GSE)
 
 ---
 
-## 💡 Want to Contribute?
+## Platforms to Find Roles
 
-Found a great free resource or tool?  
-Check out the [CONTRIBUTING.md](./CONTRIBUTING.md) to add it to this guide.
+### 👑 The Undisputed King: [LinkedIn](https://www.linkedin.com)
+
+### 🤝 Platforms Where Companies Apply to You
+
+* [Hired](https://hired.co.uk/)
+* [Talent.io](https://www.talent.io/)
+* [Pallet](https://app.pallet.com/profile)
+
+### 📌 Niche Communities Job Boards
+
+* [Y Combinator Jobs](https://www.ycombinator.com/jobs)
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+* [Wellfound (AngelList)](https://wellfound.com/)
+
+### 🧩 Open Source Specific
+
+* [Open Source Job Hub](https://opensourcejobhub.com/)
+* [FOSS Jobs](https://www.fossjobs.net/)
+
+### 🌍 Remote Specific
+
+* [Remote OK](https://remoteok.com/)
+* [We Work Remotely](https://weworkremotely.com/)
+* [Remote Jobs](https://remotejobs.com/)
 
 ---
 
-## 📬 Request Help via Issues
+## The Extra Step
 
-Need help with:
-- Resume reviews?
-- Country-specific job boards?
-- More interview resources?
+* 🔍 Company Insights
 
-Open an issue and I or the community will help!
+  * [Levels.fyi](https://www.levels.fyi/)
+  * [Teamblind](https://www.teamblind.com/)
+  * [Layoffs Tracker](https://layoffstracker.com/)
+
+* 🤖 Resume ATS Checkers
+
+  * [Enhancv Resume Checker](https://enhancv.com/resources/resume-checker/)
+  * [SkillSyncer ATS Checker](https://skillsyncer.com/features/ats-resume-checker)
+  * [Resume Worded Scanner](https://resumeworded.com/resume-scanner)
+
+---
+
+# 2. Step-by-Step Job Search Guide 📝
+
+This is the **practical playbook** for using the above resources.
+
+## 1. Prepare Your Foundation
+
+* Optimize your LinkedIn profile.
+* Build a clean, tailored resume (use AI resume tools).
+* Showcase 3–4 strong GitHub projects with good READMEs.
+
+## 2. Where to Search
+
+* Start with LinkedIn and Wellfound.
+* Use niche boards like YC Jobs or Hiring Without Whiteboards.
+* Explore freelance gigs with Toptal or Gun.io.
+
+## 3. Application Strategy
+
+* Apply to 3–5 targeted jobs per day.
+* Customize resume and cover letters.
+* Use [JobScan](https://www.jobscan.co/) to optimize for ATS.
+
+## 4. Networking
+
+* Join online meetups, Discord groups, and communities.
+* Reach out to recruiters/hiring managers with personalized messages.
+
+## 5. Interviews
+
+* Practice with [Interviews by AI](https://www.interviewsby.ai/).
+* Use the STAR method.
+* Send thank-you emails within 24 hours.
+
+## 6. The Extra Mile
+
+* Track your applications in a spreadsheet or Notion.
+* Research companies with Levels.fyi and Layoffs Tracker.
+* Negotiate offers using [Haseeb Qureshi’s guide](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/).
+
+## 7. Staying Motivated
+
+* Set weekly goals (applications, messages, interviews).
+* Celebrate small wins.
+* Keep learning in parallel.
 
 ---
 
-## ⭐ If You Found This Useful
+# 3. Job Application Tracker 📊
 
-Give this repo a **star** 🌟 to help more people struggling with the job hunt!
+To make job searching easier, use the provided **Excel/CSV tracker** in this repo:
 
-Or connect with me on [LinkedIn](https://www.linkedin.com/in/vishant--chaudhary) to share your success story.
+* [Job\_Application\_Tracker.xlsx](./Job_Application_Tracker.xlsx)
+* [Job\_Application\_Tracker.csv](./Job_Application_Tracker.csv)
+
+## Suggested Columns:
+
+* Company
+* Role
+* Job Link
+* Application Date
+* Status (Wishlist / Applied / Interview / Offer / Rejected)
+* Contact Person
+* Notes
+
+## How to Use:
+
+* Update the sheet daily.
+* Use filters to track by status.
+* Add recruiter contacts and interview notes.
 
 ---
+
+# 4. Contribution 🤝
+
+This is a **community project**. If you have new resources, guides, or templates:
+
+* Open a Pull Request with your additions.
+* Follow the existing structure for consistency.
+* Share tools, communities, and personal strategies that helped you.
+
+**Let’s make job hunting easier, together.**
