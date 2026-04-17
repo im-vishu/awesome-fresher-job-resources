@@ -100,6 +100,7 @@ Not sure where to start?
 - [AngelList Talent](https://angel.co/) – Startups and tech.
 - [Glassdoor](https://www.glassdoor.com/Job/index.htm)
 - [FlexJobs](https://www.flexjobs.com/) – Curated remote-friendly listings.
+- [AI Dev Jobs](https://aidevboard.com/) – Specialized AI/ML engineering job board with 8,400+ listings from 580+ company ATS sources; free REST API and MCP server for programmatic search.
 
 ---
 
