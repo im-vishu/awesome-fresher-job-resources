@@ -9,62 +9,66 @@
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
 - [How to Use This List](#how-to-use-this-list)
 - [Quick Start/Learning Path](#quick-startlearning-path)
-- [Resume Builders](#resume-builders)
+- [Resume Builders & Tools](#resume-builders--tools)
 - [Visual Examples](#visual-examples)
 - [Peer Resume Review & Feedback](#peer-resume-review--feedback)
 - [Cover Letter & Email Templates](#cover-letter--email-templates)
-- [Job Boards](#job-boards)
+- [Job Boards - Detailed List](#job-boards---detailed-list)
 - [Remote & Freelance Opportunities](#remote--freelance-opportunities)
-- [Learning Platforms](#learning-platforms)
+- [Learning Platforms - Detailed List](#learning-platforms---detailed-list)
 - [Soft Skills & Communication](#soft-skills--communication)
 - [Mentorship Platforms](#mentorship-platforms)
 - [Mock Interview & Practice Platforms](#mock-interview--practice-platforms)
-- [Interview Preparation](#interview-preparation)
+- [Interview Preparation - Deep Dive](#interview-preparation---deep-dive)
 - [Company-Specific Guides](#company-specific-guides)
 - [Diversity, Inclusion & Accessibility](#diversity-inclusion--accessibility)
 - [Open Source Projects for Beginners](#open-source-projects-for-beginners)
 - [Branding & Portfolio](#branding--portfolio)
 - [Localization / Country & Region Specific](#localization--country--region-specific)
 - [Job Search Blogs & Resources](#job-search-blogs--resources)
+- [Courses - Top Picks](#courses---top-picks)
+- [Content Creators to Follow](#content-creators-to-follow)
 - [FAQs & Troubleshooting](#faqs--troubleshooting)
 - [Success Stories](#success-stories)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
 
 ---
 
 ## How to Use This List
 
 Not sure where to start?  
-1. [Build your resume](#resume-builders)  
-2. [Get feedback or review](#peer-resume-review--feedback)  
-3. [Search and apply for jobs](#job-boards)  
-4. [Prepare for interviews](#interview-preparation)  
-5. [Develop soft & technical skills](#learning-platforms)  
-6. [Network or find mentors](#mentorship-platforms)  
+1. [Build your resume & portfolio](#resume-builders--tools)  
+2. [Get feedback](#peer-resume-review--feedback)  
+3. [Search & apply for jobs](#job-boards---detailed-list)  
+4. [Prepare for interviews](#interview-preparation---deep-dive)  
+5. [Upskill via learning platforms & courses](#learning-platforms---detailed-list)  
+6. [Network/find mentors](#mentorship-platforms), join [communities](#networking--community)
 7. [Contribute to open source](#open-source-projects-for-beginners)  
-8. [Share your story!](#success-stories)  
+8. [Read FAQs & real success stories](#success-stories)
 
 ---
 
 ## Quick Start/Learning Path
 
 **Suggested order for freshers:**  
-- Step 1: Resume → Step 2: Profile/LinkedIn → Step 3: Job Boards → Step 4: Interview Prep → Step 5: Upskill → Step 6: Network → Step 7: Projects
+- Resume → LinkedIn Profile → Job Boards → Interview Prep  
+- Skill-Up (Courses) → Networking → Projects & Open Source
 
 ---
 
-## Resume Builders
+## Resume Builders & Tools
 
-- [NovoResume](https://novoresume.com/) – Clean, easy-to-use online resume builder with templates.
-- [Overleaf CV](https://www.overleaf.com/latex/templates/tagged/cv) – LaTeX CV templates for technical candidates.
-- [Canva Resume Maker](https://www.canva.com/resume/templates/) – Drag-and-drop resume templates, modern designs.
-- [FlowCV](https://flowcv.com/) – Free online builder with unlimited resumes.
-- [Reactive Resume](https://rxresu.me/) – Open-source, privacy-focused resume builder.
+Jump right to our detailed file: [resume-tools.md](resume-tools.md)  
+- Best online resume builders, analyzers, & templates for ATS-proof documents.
+- Example:  
+  - [NovoResume](https://novoresume.com/) – Clean, easy-to-use builder.  
+  - [Overleaf CV](https://www.overleaf.com/latex/templates/tagged/cv) – Great for technical/academic resumes.
 
 ---
 
@@ -72,55 +76,51 @@ Not sure where to start?
 
 - ![Sample Resume - Novoresume](assets/sample-novoresume.png)
 - ![Cover Letter Template](assets/sample-cover-letter.png)
-- _Add more screenshots or GIFs showing resume tools/platforms in action._
+- _Add your own resume/CV screenshots via PR to help others!_
 
 ---
 
 ## Peer Resume Review & Feedback
 
-- [r/Resume](https://www.reddit.com/r/resume/) – Get free feedback from the Reddit community.
-- [Resume Worded](https://resumeworded.com/) – AI-powered resume feedback, limited free use.
-- [LinkedIn Career Advice](https://www.linkedin.com/psettings/careers-advice) – Find mentors for resume reviews.
+- [r/Resume (Reddit)](https://www.reddit.com/r/resume/) – Get real feedback from a large community.
+- [Resume Worded](https://resumeworded.com/) – AI review, matches for ATS.
+- [LinkedIn Career Advice](https://www.linkedin.com/psettings/careers-advice) – Get personalized mentor feedback.
 
 ---
 
 ## Cover Letter & Email Templates
 
-- [Novoresume Cover Letter Builder](https://novoresume.com/cover-letter-templates) – Free templates.
-- [Indeed's Email Templates](https://www.indeed.com/career-advice/career-development/job-search-email-templates) – Templates for outreach, follow-up, and more.
-- [MailMentor](https://mailmentor.io/) – Custom suggestions for job search emails.
+- [Novoresume Cover Letter Builder](https://novoresume.com/cover-letter-templates)
+- [Indeed's Email Templates](https://www.indeed.com/career-advice/career-development/job-search-email-templates)
+- [MailMentor](https://mailmentor.io/) – Get personalized outreach templates.
 
 ---
 
-## Job Boards
+## Job Boards - Detailed List
 
-- [LinkedIn Jobs](https://www.linkedin.com/jobs/) – Professional networking & job board.
-- [Indeed](https://www.indeed.com/)
-- [Naukri](https://www.naukri.com/) – India-focused.
-- [AngelList Talent](https://angel.co/) – Startups and tech.
-- [Glassdoor](https://www.glassdoor.com/Job/index.htm)
-- [FlexJobs](https://www.flexjobs.com/) – Curated remote-friendly listings.
+🔍 See the full list in [job-portals.md](job-portals.md)  
+- Features 20+ trusted portals (Indeed, Naukri, Foundit, Wellfound, Hyreinsta, more!)  
+Example from the list:  
+- [LinkedIn Jobs](https://www.linkedin.com/jobs/) — Largest professional network.
+- [Foundit](https://www.foundit.in/) — India/APAC classic.
+- [Wellfound](https://wellfound.com/) — Startups, remote, global.
 
 ---
 
 ## Remote & Freelance Opportunities
 
-- [We Work Remotely](https://weworkremotely.com/) – Leading remote job board.
-- [Remote OK](https://remoteok.io/)
-- [Upwork](https://www.upwork.com/) – Freelance/search by skill.
+- [We Work Remotely](https://weworkremotely.com/) – All-remote, global.
+- [Remote OK](https://remoteok.io/) – Curated tech/remote jobs.
+- [Upwork](https://www.upwork.com/)
 - [Freelancer.com](https://www.freelancer.com/)
 
 ---
 
-## Learning Platforms
+## Learning Platforms - Detailed List
 
-- [Coursera](https://www.coursera.org/)
-- [edX](https://www.edx.org/)
-- [freeCodeCamp](https://www.freecodecamp.org/)
-- [Khan Academy](https://www.khanacademy.org/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [Codecademy](https://www.codecademy.com/)
-- [SoloLearn](https://www.sololearn.com/)
+📚 See the full list in [learning.md](learning.md)  
+Find 50+ of the best platforms, with one-line descriptions—[edX](https://www.edx.org/), [Coursera](https://www.coursera.org/), [GeeksforGeeks](https://www.geeksforgeeks.org/), [freeCodeCamp](https://www.freecodecamp.org/), and more.
+> Be sure to check out [courses.md](Courses.md) for 25+ top-rated, interview-focused and upskilling courses with explanations.
 
 ---
 
@@ -129,33 +129,34 @@ Not sure where to start?
 - [TED Talks: Communication](https://www.ted.com/topics/communication)
 - [Coursera: Successful Negotiation](https://www.coursera.org/learn/negotiation)
 - [MindTools](https://www.mindtools.com/)
-- [Toastmasters International](https://www.toastmasters.org/) – Practice public speaking.
+- [Toastmasters International](https://www.toastmasters.org/)
 
 ---
 
 ## Mentorship Platforms
 
-- [ADPList](https://adplist.org/)
+- [ADPList](https://adplist.org/)  
 - [MentorCruise](https://mentorcruise.com/)
-- [PushFar](https://www.pushfar.com/) – Free and paid mentorship options.
+- [PushFar](https://www.pushfar.com/)
 
 ---
 
 ## Mock Interview & Practice Platforms
 
-- [Pramp](https://www.pramp.com/) – Peer-to-peer mock interviews.
+- [Pramp](https://www.pramp.com/)  
 - [InterviewBuddy](https://interviewbuddy.in/)
 - [Gainlo](https://www.gainlo.co/)
-- [Interviewing.io](https://interviewing.io/) – Anonymous technical mock interviews.
+- [Interviewing.io](https://interviewing.io/)
 
 ---
 
-## Interview Preparation
+## Interview Preparation - Deep Dive
 
-- [LeetCode](https://leetcode.com/)
-- [InterviewBit](https://www.interviewbit.com/)
-- [GeeksforGeeks Interview Preparation](https://www.geeksforgeeks.org/company-interview-corner/)
-- [Careercup](https://www.careercup.com/)
+🎯 See [interview-prep.md](interview-prep.md) for:  
+- 20+ coding platforms and mock interview websites
+- Company-specific question banks (Glassdoor, LeetCode Discuss, GeeksforGeeks)
+- Behavioral/HR/STAR method guides, books, and playlists
+- Weekly practice plans & peer strategies
 
 ---
 
@@ -169,12 +170,12 @@ Not sure where to start?
 
 ## Diversity, Inclusion & Accessibility
 
-- [Women Who Code](https://www.womenwhocode.com/) – Global network for women in tech.
-- [TechLadies](https://www.techladies.co/) – Community for women in Asia.
+- [Women Who Code](https://www.womenwhocode.com/)
+- [TechLadies](https://www.techladies.co/)
 - [CodeNewbie](https://www.codenewbie.org/)
-- [Blind](https://www.teamblind.com/) – Anonymous community for workplace discussion (diversity & accessibility topics).
-- [Disability:IN’s Career Center](https://www.disabilityin.org/what-we-do/career-center/) – For job seekers with disabilities.
-- [EmployAble](https://employable.co.in/) – India-based, jobs for people with disabilities.
+- [Blind](https://www.teamblind.com/)
+- [Disability:IN’s Career Center](https://www.disabilityin.org/what-we-do/career-center/)
+- [EmployAble](https://employable.co.in/)
 
 ---
 
@@ -190,31 +191,27 @@ Not sure where to start?
 ## Branding & Portfolio
 
 - [GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-- [GitHub Pages](https://pages.github.com/) – Free static site hosting.
-- [Netlify](https://www.netlify.com/) – Free portfolio hosting.
+- [GitHub Pages](https://pages.github.com/)  
+- [Netlify](https://www.netlify.com/)  
 - [Vercel](https://vercel.com/)
-- [About.me](https://about.me/) – Simple personal landing page.
+- [About.me](https://about.me/)
 - [Canva Portfolio Templates](https://www.canva.com/templates/search/portfolios/)
 
 ---
 
 ## Localization / Country & Region Specific
 
-**_India_**
-- [Naukri](https://www.naukri.com/)
-- [Internshala](https://internshala.com/)
-- [LetsIntern](https://www.letsintern.com/)
+**_India_**   
+[Naukri](https://www.naukri.com/), [Internshala](https://internshala.com/), [LetsIntern](https://www.letsintern.com/)
 
-**_Europe_**
-- [EURES](https://ec.europa.eu/eures/public/en/homepage)
-- [EuropeLanguageJobs.com](https://www.europelanguagejobs.com/)
+**_Europe_**   
+[EURES](https://ec.europa.eu/eures/public/en/homepage), [EuropeLanguageJobs.com](https://www.europelanguagejobs.com/)
 
-**_USA & Americas_**
-- [USAJobs](https://www.usajobs.gov/)
-- [Dice](https://www.dice.com/) – Tech jobs.
+**_USA & Americas_**   
+[USAJobs](https://www.usajobs.gov/), [Dice](https://www.dice.com/)
 
-**_Asia-Pacific_**
-- [JobStreet](https://www.jobstreet.com/)
+**_Asia-Pacific_**   
+[JobStreet](https://www.jobstreet.com/)
 
 ---
 
@@ -228,41 +225,60 @@ Not sure where to start?
 
 ---
 
+## Courses - Top Picks
+
+🎓 See [Courses.md](Courses.md)  
+- 25+ handpicked programming, DSA, tech, and soft skills courses  
+- Example:  
+  - [CS50: Introduction to Computer Science](https://cs50.harvard.edu/) — Legendary Harvard course, clear and motivating!
+  - [Elements of AI](https://www.elementsofai.com/) — Zero-to-one in modern AI thinking, fully free.
+
+---
+
+## Content Creators to Follow
+
+🎥 See [creators.md](creators.md) for 60+ creators, each with a one-line why-they-rock.  
+- [freeCodeCamp YouTube](https://www.youtube.com/freecodecamp)
+- [Apna College](https://www.youtube.com/@ApnaCollegeOfficial)
+- [Striver (Take U Forward)](https://www.youtube.com/@takeUforward)
+- [Kunal Kushwaha](https://www.linkedin.com/in/kunalkushwaha/)
+- ...and many more for interview, programming, career, DSA, and success!
+
+---
+
 ## FAQs & Troubleshooting
 
-> **Why am I not getting callbacks?**  
-> - Make your resume ATS-friendly.
-> - Apply to roles where you meet most requirements.
-> - Network and get referrals via LinkedIn or ADPList.
->
-> **How do I stand out?**  
-> - Build a strong online portfolio (see [Branding & Portfolio](#branding--portfolio))
-> - Contribute to open source or related projects.
-> - Customize resumes and cover letters for each application.
+Why am I not getting callbacks?
+- Make your resume ATS-friendly.
+- Apply to roles that fit your background.
+- Review and follow up on applications regularly.
+- Network & get referrals ([Networking](networking.md)).
 
-_For more, ask in [Discussions](https://github.com/im-vishu/awesome-fresher-job-resources/discussions) or open an issue._
+How do I stand out?
+- Build a strong online portfolio ([Branding & Portfolio](#branding--portfolio)).
+- Contribute to open source/real projects.
+- Tailor resume and cover letter for every job.
+
+Find more support in GitHub [Discussions](https://github.com/im-vishu/awesome-fresher-job-resources/discussions) or open an [issue](https://github.com/im-vishu/awesome-fresher-job-resources/issues).
 
 ---
 
 ## Success Stories
 
 > Want to share your job search journey?
->
 > - Open a PR to add your story here.
-> - Or, share in [Discussions](https://github.com/im-vishu/awesome-fresher-job-resources/discussions)!
->
-> _User stories motivate and guide new job seekers._
+> - Or share in [Discussions](https://github.com/im-vishu/awesome-fresher-job-resources/discussions)!
+> _User stories motivate and guide new job seekers._  
 
 ---
 
 ## Contributing
 
-Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines:
-- Add only free and reputable resources.
-- Provide a concise description for each entry.
-- Tag resources as “Beginner-friendly”, “Global”, “India”, “Women-in-tech”, etc. when relevant.
-- Check for duplicates, broken links, or outdated resources.
-- Open issues for suggestions, feedback, or link rot.
+We welcome your contributions to this guide!
+- See [CONTRIBUTING.md](CONTRIBUTING.md) for tips: add links, fix content, share your experience, or suggest FAQ additions.
+- *Tag resources* (Beginner-friendly, Women-in-tech, India, Remote, etc.).
+- *Check* for duplicates, broken, or outdated resources.
+- *Submit* an issue or pull request to get involved.
 
 ---
 
@@ -274,12 +290,16 @@ This project is licensed under [CC0 1.0 Universal](LICENSE).
 
 ## Automated Link Checking
 
-_Broken links are automatically detected with GitHub Actions ([lychee-action](https://github.com/lycheeverse/lychee-action)). PRs fixing dead links are appreciated!_
+_Broken links are caught with GitHub Actions ([lychee-action](https://github.com/lycheeverse/lychee-action)). PRs fixing dead links are always welcome!_
 
 ---
 
 ## Contact
 
-For suggestions, feedback, or help:  
+For suggestions, feedback, or collaboration—  
 - Open a [GitHub issue](https://github.com/im-vishu/awesome-fresher-job-resources/issues)
-- Or connect on [LinkedIn](https://www.linkedin.com/in/im-vishu/)
+- Or connect with [Vishal on LinkedIn](https://www.linkedin.com/in/im-vishu/)
+
+---
+
+**Star ⭐, share with your peers, and help freshers succeed—your support makes this resource better every day!**
