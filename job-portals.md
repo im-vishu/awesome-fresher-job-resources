@@ -12,6 +12,7 @@ The best job, internship, and freelance portals for all backgrounds—each chose
 - [CutShort](https://cutshort.io/) — *Fast-growing Indian tech/startup job board—AI-powered matchmaking.*
 - [Shine.com](https://www.shine.com/) — *Oldest Indian aggregator; freshers to execs.*
 - [ZipRecruiter](https://www.ziprecruiter.com/) — *Easy US/UK/CA/Europe jobs; high-quality filters.*
+- [Hanzilla Jobs](https://jobs.hanzilla.co/) — *Free daily-updated Canadian student/recent-grad job board for internships, co-ops, new grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.* _(Canada, Student-friendly)_
 - [SimplyHired](https://www.simplyhired.com/) — *US/global, intuitive aggregator.*
 - [FlexJobs](https://www.flexjobs.com/) — *Top-rated for remote/flexible positions, entry to senior.*
 - [USAJobs.gov](https://www.usajobs.gov/) — *Official US Government jobs—many paid internships!*
