@@ -69,6 +69,7 @@ Jump right to our detailed file: [resume-tools.md](resume-tools.md)
 - Example:  
   - [NovoResume](https://novoresume.com/) – Clean, easy-to-use builder.  
   - [Overleaf CV](https://www.overleaf.com/latex/templates/tagged/cv) – Great for technical/academic resumes.
+  -  [DearHiringManager](https://dearhiringmanager.io/) – Paste any job posting URL and get the hiring manager's name, email and LinkedIn in ~60 seconds. Free, no signup required.
 
 ---
 
