@@ -83,6 +83,7 @@ Jump right to our detailed file: [resume-tools.md](resume-tools.md)
 ## Peer Resume Review & Feedback
 
 - [r/Resume (Reddit)](https://www.reddit.com/r/resume/) – Get real feedback from a large community.
+- [Resume Roaster](https://resume.roastlabai.com/) – Free AI resume critic with instant ATS gap detection and brutally honest bullet-point feedback. No account required for the first roast.
 - [Resume Worded](https://resumeworded.com/) – AI review, matches for ATS.
 - [LinkedIn Career Advice](https://www.linkedin.com/psettings/careers-advice) – Get personalized mentor feedback.
 
