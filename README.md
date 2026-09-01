@@ -69,6 +69,7 @@ Jump right to our detailed file: [resume-tools.md](resume-tools.md)
 - Example:  
   - [NovoResume](https://novoresume.com/) – Clean, easy-to-use builder.  
   - [Overleaf CV](https://www.overleaf.com/latex/templates/tagged/cv) – Great for technical/academic resumes.
+  - [ResumeAI ATS Checker](https://withresumeai.com/ats-checker) – Free resume-to-job-description checks (3 per day without an account), backed by an open dataset of 738 large employers with 704 ATS portals verified. _(Beginner-friendly, Global)_
 
 ---
 
