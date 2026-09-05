@@ -69,6 +69,7 @@ Jump right to our detailed file: [resume-tools.md](resume-tools.md)
 - Example:  
   - [NovoResume](https://novoresume.com/) – Clean, easy-to-use builder.  
   - [Overleaf CV](https://www.overleaf.com/latex/templates/tagged/cv) – Great for technical/academic resumes.
+  - [Resumind](https://resumind.vizo-techno.com/) – Free AI resume builder with ATS scoring, job-match analysis, and cover letter generation.
 
 ---
 
