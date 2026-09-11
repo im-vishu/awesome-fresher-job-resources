@@ -175,6 +175,7 @@ Find 50+ of the best platforms, with one-line descriptions—[edX](https://www.e
 - [LeetCode Discuss Interview Experiences](https://leetcode.com/discuss/interview-experience)
 - [Glassdoor Interview Questions](https://www.glassdoor.com/Interview/index.htm)
 - [GeeksforGeeks SDE Sheet](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-interview-preparation/)
+- [InterviewLegend](https://interviewlegend.com) - per-company interview guides built from first-hand reports
 
 ---
 
