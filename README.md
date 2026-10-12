@@ -125,6 +125,7 @@ Example from the list:
 - [Freelancer.com](https://www.freelancer.com/)
 
 ---
+- [RobotTraining.jobs](https://robottraining.jobs/entry-level-robotics-jobs) – Entry-level robot training, teleoperation and data collection jobs (many need no degree), with posted pay.
 
 ## Learning Platforms - Detailed List
 
