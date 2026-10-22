@@ -85,6 +85,7 @@ Jump right to our detailed file: [resume-tools.md](resume-tools.md)
 - [r/Resume (Reddit)](https://www.reddit.com/r/resume/) – Get real feedback from a large community.
 - [Resume Worded](https://resumeworded.com/) – AI review, matches for ATS.
 - [LinkedIn Career Advice](https://www.linkedin.com/psettings/careers-advice) – Get personalized mentor feedback.
+- [OpenJobs](https://openjobs.thecompound.tech) - OpenJobs keeps your roles, projects, achievements, stories and skills in one experience bank; it tailors each resume and each application answer from that bank for the job.
 
 ---
 
