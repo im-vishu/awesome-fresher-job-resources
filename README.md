@@ -69,6 +69,7 @@ Jump right to our detailed file: [resume-tools.md](resume-tools.md)
 - Example:  
   - [NovoResume](https://novoresume.com/) – Clean, easy-to-use builder.  
   - [Overleaf CV](https://www.overleaf.com/latex/templates/tagged/cv) – Great for technical/academic resumes.
+  - [JobAny](https://jobany.work/) – Checks your resume against a specific job post, shows exactly what the ATS and recruiter will miss, and fixes it with a built-in editor; a Chrome extension agent fills out the application for you to review and send.
 
 ---
 
