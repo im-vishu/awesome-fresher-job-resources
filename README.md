@@ -69,6 +69,7 @@ Jump right to our detailed file: [resume-tools.md](resume-tools.md)
 - Example:  
   - [NovoResume](https://novoresume.com/) – Clean, easy-to-use builder.  
   - [Overleaf CV](https://www.overleaf.com/latex/templates/tagged/cv) – Great for technical/academic resumes.
+  - [JobEmerge](https://www.jobemerge.work) – AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal. _(Freemium, Global)_
 
 ---
 
