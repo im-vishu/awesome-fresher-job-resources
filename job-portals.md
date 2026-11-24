@@ -17,6 +17,7 @@ The best job, internship, and freelance portals for all backgrounds—each chose
 - [USAJobs.gov](https://www.usajobs.gov/) — *Official US Government jobs—many paid internships!*
 - [Seek](https://www.seek.com.au/) — *Major Australia/New Zealand portal.*
 - [JobStreet](https://www.jobstreet.com/) — *Asia-Pacific focus, trusted by local recruiters.*
+- [EuroJobs.ai](https://eurojobs.ai/) — *IT jobs across Europe, aggregated hourly from 21,000 employers' own career pages (Greenhouse, Lever, Ashby, Workable and others). Filters for country, remote, visa sponsorship and English-speaking teams. Free AI CV and cover-letter tailoring.*
 - [Europe Language Jobs](https://www.europelanguagejobs.com/) — *Multi-language jobs in Europe, all levels.*
 - [RemoteOK](https://remoteok.io/) — *Curated remote jobs, frequently updated, tech-centered.*
 - [We Work Remotely](https://weworkremotely.com/) — *Biggest pure-remote platform, all industries.*
