@@ -113,6 +113,10 @@ Example from the list:
 - [LinkedIn Jobs](https://www.linkedin.com/jobs/) — Largest professional network.
 - [Foundit](https://www.foundit.in/) — India/APAC classic.
 - [Wellfound](https://wellfound.com/) — Startups, remote, global.
+- [Ashby Jobs Scraper](https://apify.com/publicrecords/ashby-jobs-scraper) — New job postings from any Ashby job board since a date or window (24h, 7d, 30d) (Apify Actor, API + MCP).
+- [Greenhouse Jobs Scraper](https://apify.com/publicrecords/greenhouse-jobs-scraper) — New job postings from any Greenhouse job board since a date or window (Apify Actor, API + MCP).
+- [Lever Jobs Scraper](https://apify.com/publicrecords/lever-jobs-scraper) — New job postings from any Lever job board since a date or window (Apify Actor, API + MCP).
+- [SmartRecruiters Jobs Scraper](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) — New job postings from any SmartRecruiters careers site since a date or window (Apify Actor, API + MCP).
 
 
 ---
